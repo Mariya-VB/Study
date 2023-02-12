@@ -49,7 +49,7 @@ def score_game(game_predict) -> int:
         count_ls.append(game_predict(number))
 
     score = int(np.mean(count_ls))
-    print(score)
+    print(f'Алгоритм угадывает число в среднем на 1000 подходов за {score} попыток')
     return score
 
 score_game(game_predict)

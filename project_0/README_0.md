@@ -1,10 +1,10 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Mariya-VB/Projects/tree/master#описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/Mariya-VB/Projects/tree/master#какой-кейс-решаем)  
-[3. Результат](https://github.com/Mariya-VB/Projects/tree/master#результаты)    
-[4. Выводы](https://github.com/Mariya-VB/Projects/tree/master#выводы) 
+[1. Описание проекта](https://github.com/Mariya-VB/Study/blob/main/project_0/README_0.md#описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Mariya-VB/Study/blob/main/project_0/README_0.md#какой-кейс-решаем)  
+[3. Результат](https://github.com/Mariya-VB/Study/blob/main/project_0/README_0.md#результаты)    
+[4. Выводы](https://github.com/Mariya-VB/Study/blob/main/project_0/README_0.md#выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
