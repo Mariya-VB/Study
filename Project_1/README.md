@@ -1,10 +1,10 @@
 # Проект 1. Анализ резюме из HeadHunter 
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Mariya-VB/Study/blob/main/project_0/README_0.md#описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/Mariya-VB/Study/blob/main/project_0/README_0.md#какой-кейс-решаем)  
-[3. Результат](https://github.com/Mariya-VB/Study/blob/main/project_0/README_0.md#результаты)    
-[4. Выводы](https://github.com/Mariya-VB/Study/blob/main/project_0/README_0.md#выводы) 
+[1. Описание проекта](https://github.com/Mariya-VB/Study/tree/main/Project_1#описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Mariya-VB/Study/tree/main/Project_1#какой-кейс-решаем)  
+[3. Результат](https://github.com/Mariya-VB/Study/tree/main/Project_1#результаты)    
+[4. Выводы](https://github.com/Mariya-VB/Study/tree/main/Project_1#выводы) 
 
 ### Описание проекта    
 Исходные данные (https://drive.google.com/drive/folders/198EvEawm5MwdbNgc28WH6nqZyoY57aZm ), содержащие выборку резюме из HeadHunter, необходимо преобразовать, исследовать и очистить.
