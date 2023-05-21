@@ -1,10 +1,10 @@
 # Проект 1. Анализ вакансий из HeadHunter 
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Mariya-VB/Study/tree/main/Project_1#описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/Mariya-VB/Study/tree/main/Project_1#какой-кейс-решаем)  
-[3. Результат](https://github.com/Mariya-VB/Study/tree/main/Project_1#результаты)    
-[4. Выводы](https://github.com/Mariya-VB/Study/tree/main/Project_1#выводы) 
+[1. Описание проекта](https://github.com/Mariya-VB/Study/tree/main/pr_2#описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Mariya-VB/Study/tree/main/pr_2#какой-кейс-решаем)  
+[3. Результат](https://github.com/Mariya-VB/Study/tree/main/pr_2#результаты)    
+[4. Выводы](https://github.com/Mariya-VB/Study/tree/main/pr_2#выводы) 
 
 ### Описание проекта    
 Исходные данные, содержащие выборку вакансий из HeadHunter, необходимо проанализировать, используя SQL.
